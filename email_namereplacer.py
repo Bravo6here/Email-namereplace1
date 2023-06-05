@@ -1,8 +1,8 @@
-filepath_names = R"\Email-namereplace1\Input\Names.txt" # Copypaste path to names
-filepath_email = R"\Email-namereplace1\Input\letter.txt"
-output_path = R"\Email-namereplace1\Output"
+filepath_names = R"\Email-namereplace1\Input\Names.txt" # Copypaste path to Names.txt
+filepath_email = R"\Email-namereplace1\Input\letter.txt" # Copypaste path to letter.txt
+output_path = R"\Email-namereplace1\Output" # Copypaste path to Output
 output_path += R"\ "
-sender_name = "Bravo"
+sender_name = "Bravo" # Your name here
 
 with open(f"{filepath_names}", "r") as namefile:
     names = namefile.readlines()
