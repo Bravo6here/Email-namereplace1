@@ -1,6 +1,6 @@
-filepath_names = R"C:\Users\Jan - Hall 3000\Desktop\Pythonus\Python web scrapping\Email-namereplace1\Input\Names.txt"
-filepath_email = R"C:\Users\Jan - Hall 3000\Desktop\Pythonus\Python web scrapping\Email-namereplace1\Input\letter.txt"
-output_path = R"C:\Users\Jan - Hall 3000\Desktop\Pythonus\Python web scrapping\Email-namereplace1\Output"
+filepath_names = R"\Email-namereplace1\Input\Names.txt" # Copypaste path to names
+filepath_email = R"\Email-namereplace1\Input\letter.txt"
+output_path = R"\Email-namereplace1\Output"
 output_path += R"\ "
 sender_name = "Bravo"
 
