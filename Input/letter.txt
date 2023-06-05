@@ -1,0 +1,6 @@
+Hello [name],
+
+thank you for your email. It really helped me.
+If there is anything else I should know then write me another email.
+
+[sendersname]
