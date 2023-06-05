@@ -1,0 +1,1 @@
+In Output directory all emails should be written.
